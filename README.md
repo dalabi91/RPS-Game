@@ -22,5 +22,7 @@ The goal of this activity was to build an RPS game using newly learned Java skil
 * Follow your pseudocode as much as you can
 
 ### Resources
-  [MDN Web Docs on Math](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math)
+
+[MDN Web Docs on Math](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math)
+  
 [W3School on JS]([https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math](https://www.w3schools.com/js/default.asp)https://www.w3schools.com/js/default.asp)
