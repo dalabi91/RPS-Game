@@ -8,6 +8,8 @@ The goal of this activity was to build an RPS game using newly learned Java skil
 * Rock: wins against scissors, loses to paper, and ties against itself.
 * Paper: wins against rock, loses to scissors, and ties against itself.
 * Scissors: wins against paper, loses to rock, and ties against itself.
+* 
+![RPS-Example-Picture](images/RPS-example.png)
 
 ### Acceptance Criteria
 
@@ -23,6 +25,6 @@ The goal of this activity was to build an RPS game using newly learned Java skil
 
 ### Resources
 
-[MDN Web Docs on Math](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math)
+- [**MDN Web Docs on Math**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math)
   
-[W3 School on JS]([https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math](https://www.w3schools.com/js/default.asp)https://www.w3schools.com/js/default.asp)
+- [**W3 School on JS**](https://www.w3schools.com/js/default.asp)
