@@ -9,7 +9,7 @@ The goal of this activity was to build an RPS game using newly learned Java skil
 * Paper: wins against rock, loses to scissors, and ties against itself.
 * Scissors: wins against paper, loses to rock, and ties against itself.
 * 
-![RPS-Example-Picture](images/RPS-example.png)
+![RPS-Example-Picture](./images/RPS-example.png)
 
 ### Acceptance Criteria
 
